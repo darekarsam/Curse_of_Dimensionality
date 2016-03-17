@@ -1,4 +1,4 @@
-# Cusrse of Dimensionality
+# Curse of Dimensionality
 generating the graph for studying curse of dimensionality
 
 Understanding the curse of dimensionality. Consider the following experiment:
